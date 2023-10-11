@@ -1,5 +1,3 @@
-package assignment3;
-
 import java.awt.Color;
 import java.awt.Rectangle;
 
